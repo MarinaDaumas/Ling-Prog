@@ -1,0 +1,12 @@
+
+Chaves primárias de int tem performace melhor do chaves de outros tipos.
+Chaves estrangeiras fazem nfvoinfv de chaves primárias. 
+
+
+Algumas coisas podem ser feitas na lógica do programa ou do banco de dados.
+	Se o banco de dados é muito usado, melhor deixar na lógica do programa.
+	Se pouco usado pode deixar na lógica do banco de dados.   
+
+WHERE é a condicional.
+
+? em string é substituida por alguma coisa q pode ser definida depois.
