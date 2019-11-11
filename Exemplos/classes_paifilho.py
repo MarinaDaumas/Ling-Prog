@@ -15,7 +15,9 @@ class Filho(Pai):
 
 
 Eric = Filho()
-
+print("\nEric come")
 Eric.comer()
+print("\nEric joga video game")
 Eric.jogar_videogame()
+print("\nEric dorme")
 Eric.dormir()
